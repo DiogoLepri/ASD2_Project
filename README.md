@@ -70,16 +70,9 @@ Before running the notebook, please configure the following parameters in the fi
 
 ---
 
-## 📬 Contact Information
-
-For further inquiries or collaboration opportunities, please contact:  
-📧 [diogolepri@example.com](mailto:diogolepri@example.com)
-
----
-
 ## 🛡️ License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/DiogoLepri/ASD-DiagNet/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DiogoLepri/ASD2_Project/blob/main/LICENSE) file for details.
 
 ---
 
@@ -89,4 +82,4 @@ We extend our gratitude to the research community and collaborators who contribu
 
 ---
 
-Thank you for your interest in **ASD-DiagNet**. We welcome feedback and contributions. If you encounter any issues, please submit them via the [Issues](https://github.com/DiogoLepri/ASD-DiagNet/issues) section.
+Thank you for your interest in **ASD-DiagNet**. We welcome feedback and contributions. If you encounter any issues, please submit them via the [Issues](https://github.com/DiogoLepri/ASD2_Project/issues) section.
