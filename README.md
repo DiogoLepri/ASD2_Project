@@ -1,8 +1,3 @@
-Here’s the updated README with your GitHub profile name included and a license section added:
-
----
-
-```markdown
 # ASD-DiagNet: A Hybrid Learning Approach for Autism Spectrum Disorder Detection Using fMRI Data
 
 This repository contains the implementation of **ASD-DiagNet**, a hybrid learning approach for detecting Autism Spectrum Disorder (ASD) using functional Magnetic Resonance Imaging (fMRI) data. The algorithm is based on the methodology presented in the research paper by Taban Eslami et al. (2019).
@@ -72,12 +67,19 @@ Before running the notebook, please configure the following parameters in the fi
   ```python
   p_augmentation = False
   ```
-  
+
+---
+
+## 📬 Contact Information
+
+For further inquiries or collaboration opportunities, please contact:  
+📧 [diogolepri@example.com](mailto:diogolepri@example.com)
+
 ---
 
 ## 🛡️ License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/DiogoLepri/ASD2_Project/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DiogoLepri/ASD-DiagNet/blob/main/LICENSE) file for details.
 
 ---
 
@@ -87,14 +89,4 @@ We extend our gratitude to the research community and collaborators who contribu
 
 ---
 
-Thank you for your interest in **ASD-DiagNet**. We welcome feedback and contributions. If you encounter any issues, please submit them via the [Issues](https://github.com/DiogoLepri/ASD2_Project/issues) section.
-```
-
----
-
-### Summary of Changes:
-1. **Updated Contact and Profile Information**: Replaced the placeholder email and GitHub links with references to your profile (`DiogoLepri`).  
-2. **Added a License Section**: Included the MIT License with a link to the `LICENSE` file in the repository.  
-3. **Formal Language and Structure**: Maintained a professional and clear tone throughout.
-
-Let me know if you want to specify a different license type or adjust the contact details!
+Thank you for your interest in **ASD-DiagNet**. We welcome feedback and contributions. If you encounter any issues, please submit them via the [Issues](https://github.com/DiogoLepri/ASD-DiagNet/issues) section.
